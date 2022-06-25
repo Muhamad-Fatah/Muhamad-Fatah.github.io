@@ -1,0 +1,27 @@
+.containerslider {
+    padding: 10px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 130px;
+    left: 30px;
+    color: rgb(255, 253, 253);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.p-pro {
+    font-family: "open sans", "tahoma", sans-serif;
+    font-size: 16px;
+    color: #141E27;
+}
+
+.img-pro {
+    border: 3px solid #141E27;
+}
+
+footer {
+    background-color: #141E27;
+    color: #ededed;
+    margin-top: -20px;
+    height: 50px;
+    line-height: 50px;
+}
